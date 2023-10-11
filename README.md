@@ -1,0 +1,1 @@
+Image Steganography using Java with AWT and Swing is a powerful and intriguing project that focuses on the art of hiding data within digital images. This project leverages Java's robust libraries, including Abstract Window Toolkit (AWT) and Swing, to provide an interactive and user-friendly interface for both embedding and extracting hidden information within images.
